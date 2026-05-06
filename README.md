@@ -57,6 +57,25 @@ Retailrocket dataset containing user interaction events:
 
 ---
 
+## 💼 Business Impact
+
+The analysis reveals critical inefficiencies in the user journey:
+
+- Extremely low overall conversion (0.83%)
+- Significant early-stage drop-off
+- Low retention → low customer lifetime value
+
+👉 Improving these areas could significantly increase revenue and retention.
+
+---
+
+## ❗ Why This Matters
+
+Improving early-stage engagement has a multiplicative effect:
+more users enter the funnel → more conversions → higher revenue.
+
+---
+
 ## 🚀 Recommendations
 
 - Improve product page UX (images, descriptions, reviews)
@@ -82,3 +101,9 @@ Retailrocket dataset containing user interaction events:
 ├── data/                         # raw dataset (not included in repo)
 ├── README.md                     # project description
 ```
+
+---
+
+## 👤 Author
+
+Egor Sakulin
